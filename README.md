@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Ciao 👋, I am Aditya Sankranthi 
-<h3 align="center">Java developer | University of Wisconsin - Milwaukee</h3>
+
 
 <!-- 
 <div align="center">
